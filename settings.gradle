@@ -1,1 +1,1 @@
-include ':app', ':base_library'
+include ':app', ':base_library', ':develop_tools'
