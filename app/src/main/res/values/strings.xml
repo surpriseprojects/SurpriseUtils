@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SurpriseUtils</string>
+    <string name="init_sp_data">初始化 SP 数据</string>
+    <string name="sp_manager">管理 SharedPreference</string>
 </resources>
